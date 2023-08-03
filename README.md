@@ -13,7 +13,6 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 - HTML
 - CSS
-- JavaScript
 
 ### How to Use
 
@@ -27,7 +26,6 @@ This website was created using the following resources:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### License
 
